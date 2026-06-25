@@ -5,6 +5,6 @@ scikit-learn
 joblib
 xgboost
 lightgbm
-tensorflow-cpu
+tensorflow
 opencv-python-headless
 scikit-image
