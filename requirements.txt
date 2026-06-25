@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-scikit-learn==1.7.2
+scikit-learn
 joblib
 xgboost
 lightgbm
-tensorflow-cpu
+tensorflow
 opencv-python-headless
 scikit-image
